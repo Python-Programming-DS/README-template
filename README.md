@@ -1,5 +1,5 @@
 # Project Assignment
-This is a **group assignment**.
+This is an **individual assignment**.
 
 **Due: Sunday, Month Date Year @ 11:59PM**
 
